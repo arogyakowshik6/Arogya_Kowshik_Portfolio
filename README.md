@@ -1,4 +1,4 @@
-
+<img src ="https://github.com/arogyakowshik6/Arogya_Kowshik_Portfolio/blob/main/public/assets/Photo.png"></img>
 
 ## 🚀 Personal Portfolio
 
