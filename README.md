@@ -1,4 +1,4 @@
-![Logo](Photo.png)
+
 
 ## 🚀 Personal Portfolio
 
@@ -41,19 +41,19 @@ A modern and responsive portfolio website built using **React**, **TailwindCSS**
 
  **Clone the repository:**
 ```bash
-git clone https://github.com/Saboo24/portofolio13.git
+git clone https://github.com/arogyakowshik6/Arogya_Kowshik_Portfolio
 ```
  ---
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: arogyakowshik6@gmail.com   
+- Location: London, UnitedKingdom
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/arogya-kowshik-5732ab387/)  
+- GitHub: [GitHub](https://github.com/arogyakowshik6)  
+  
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Arogya Kowshik**
 
