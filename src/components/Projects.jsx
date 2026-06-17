@@ -16,7 +16,7 @@ const projects = [
     title: "Portfolio Website",
     description: "A personal portfolio showcasing my skills, projects, and experience with a modern UI design.",
     image: "/assets/Photo.png",
-    link: "https://github.com/Saboo24/Portfolio8"
+    link: "https://arogya-kowshik-portfolio.vercel.app/"
   }
 ];
 
