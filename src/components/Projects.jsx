@@ -17,6 +17,13 @@ const projects = [
     description: "A personal portfolio showcasing my skills, projects, and experience with a modern UI design.",
     image: "/assets/Photo.png",
     link: "https://arogya-kowshik-portfolio.vercel.app/"
+  },
+  {
+    id: 3,
+    title: "PayRoll Pro",
+    description: "A comprehensive payroll management system designed to streamline employee compensation processes.",
+    image: "./assets/payrollpro.png",
+    link: "#"
   }
 ];
 
