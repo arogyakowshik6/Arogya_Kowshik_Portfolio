@@ -23,7 +23,7 @@ const projects = [
     title: "PayRoll Pro",
     description: "A comprehensive payroll management system designed to streamline employee compensation processes.",
     image: "./assets/payrollpro.png",
-    link: "#"
+    link: "https://payrollpro-one.vercel.app/"
   }
 ];
 
