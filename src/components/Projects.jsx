@@ -29,7 +29,7 @@ const projects = [
     id: 4,
     title: "ApexBook",
     description: "A technical, terminal-inspired appointment booking platform for clinics.",
-    image: "public/assets/Apexbook.png",
+    image: "./assets/Apexbook.png",
     link: "https://apexbook-psi.vercel.app/"
   }
 ];
