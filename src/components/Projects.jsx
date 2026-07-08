@@ -28,9 +28,9 @@ const projects = [
   {
     id: 4,
     title: "ApexBook",
-    description: "",
-    image: "./assets/ApexBook.png",
-    link: "https://payrollpro-one.vercel.app/"
+    description: "A technical, terminal-inspired appointment booking platform for clinics.",
+    image: "public/assets/Apexbook.png",
+    link: "https://apexbook-psi.vercel.app/"
   }
 ];
 
