@@ -85,7 +85,7 @@ export default function Skills() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center mt-10">
 
             <div className="border border-gray-300 p-6 rounded-lg hover:bg-red-600 hover:text-white transition">
-              <h2 className="text-3xl font-bold">+3</h2>
+              <h2 className="text-3xl font-bold">4</h2>
               <p>Projects Completed</p>
             </div>
 
