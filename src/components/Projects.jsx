@@ -30,7 +30,7 @@ const projects = [
     id: 4,
     title: "ApexBook",
     description: "",
-    image: "./assets/payrollpro.png",
+    image: "./assets/ApexBook.png",
     link: "https://payrollpro-one.vercel.app/"
   }
   
