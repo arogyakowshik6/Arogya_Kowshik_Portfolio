@@ -25,6 +25,13 @@ const projects = [
     image: "./assets/payrollpro.png",
     link: "https://payrollpro-one.vercel.app/"
   }
+  {
+    id: 4,
+    title: "ApexBook",
+    description: "A technical, terminal-inspired appointment booking platform for clinics..",
+    image: "./assets/payrollpro.png",
+    link: "https://apexbook-psi.vercel.app/"
+  }
 ];
 
 export default function Projects() {
