@@ -25,7 +25,6 @@ const projects = [
     image: "./assets/payrollpro.png",
     link: "https://payrollpro-one.vercel.app/"
   },
-    
   {
     id: 4,
     title: "ApexBook",
@@ -33,7 +32,6 @@ const projects = [
     image: "./assets/ApexBook.png",
     link: "https://payrollpro-one.vercel.app/"
   }
-  
 ];
 
 export default function Projects() {
